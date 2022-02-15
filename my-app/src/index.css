@@ -1,0 +1,9 @@
+.checkbox {
+  transform: scale(2);
+}
+.label {
+  font-size: 40px;
+}
+.label:hover {
+  cursor: pointer;
+}
